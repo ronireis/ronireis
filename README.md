@@ -22,6 +22,16 @@
    - <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="logo-Git" />
 <br>
 <br>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronireis)](https://github.com/anuraghazra/github-readme-stats)
+
     
+[![Roniele's github stats](https://github-readme-stats.vercel.app/api?username=ronireis&show_icons=true&theme=buefy)](https://github.com/ronireis/github-readme-stats)
+
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronireis&layout=compact&show_icons=true&theme=buefy)](https://github.com/ronireis/github-readme-stats)
     
+ ### linkdin <br>
+<a href="https://www.linkedin.com/in/roniele-reis-95b3a7186/">
+<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
