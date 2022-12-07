@@ -3,9 +3,9 @@
 <h1>Sejam Bem-Vindos! :smiley:</h1>
 <br>
   
-  <h3>Me chamo Roniele tenho 33 anos e sou apaixonado por tecnologia!<h3>
+  <h3>Me chamo Roniele, tenho 33 anos e sou um Desenvolvedor de soluções apaixonado por tecnologia!<h3>
   
-  <h3>Atualmente venho estudando e criando projetos em front End, uso essas tecnologias para criar meus projetos :<h3>
+  <h3>Atualmente venho estudando e criando projetos em front End, usando tecnologias como:<h3>
   <br>
   <br>
   
@@ -17,7 +17,7 @@
   
    - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Logo-Javascript"/>
     
-<h3> Em Aprendizado: <h3> 
+<h3> Em processo de Aprendizado: <h3> 
   
    - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Logo-react" width="45px" /> 
   
