@@ -31,10 +31,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronireis&layout=compact&show_icons=true&theme=buefy)](https://github.com/ronireis/github-readme-stats)
     
- ### linkdin <br>
+ ### contatos <br>
 <a href="https://www.linkedin.com/in/roniele-reis-95b3a7186/">
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-    
+<a href="https://web.whatsapp.com/+5511957232148/">
 <img align="left" alt="whatsapp" width="22px" src="https://cdn-icons-png.flaticon.com/512/152/152740.png" />
+</a>
