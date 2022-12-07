@@ -9,7 +9,7 @@
   <br>
   <br>
   
-  <h2>Lingagens:<h2/>
+  <h2>Linguagens:<h2/>
   
    - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Logo-Html"/>
   
